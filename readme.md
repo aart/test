@@ -26,3 +26,5 @@ Row B    |  row B
 This is a second version
 
 This is a third version
+
+This is an update in the branch
